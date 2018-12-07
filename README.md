@@ -45,4 +45,3 @@ Best way how to get involved is through creating [GitHub issues](https://github.
 ## Support the project
 If this project helped you or you want to support quick answers to questions and issues. Or you just think it is an interesting project. Please consider a small donation.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/bretahajek/2)
